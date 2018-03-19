@@ -1,0 +1,34 @@
+<shapes type=list>
+	<ruler.interval type=vector names=FALSE length=1 as.numeric=TRUE >1</ruler.interval>
+	<scaling.units type=vector names=FALSE length=1 as.numeric=FALSE >mm</scaling.units>
+	<scaling type=vector names=FALSE length=1 as.numeric=TRUE >0.0280373829151173</scaling>
+	<landmarks.pixel type=matrix rownames=TRUE colnames=FALSE nrow=9 ncol=2 as.numeric=TRUE >
+		V1	1497	1397
+		V2	1453	1326
+		V3	2004	1429
+		V4	2220	1432
+		V5	2196	1330
+		V6	2499	1540
+		V7	2695	1480
+		V8	2844	1458
+		V9	2841	1344
+	</landmarks.pixel>
+	<landmarks.scaled type=matrix rownames=TRUE colnames=FALSE nrow=9 ncol=2 as.numeric=TRUE >
+		V1	41.9719622239306	-39.1682239324188
+		V2	40.7383173756654	-37.1775697454455
+		V3	56.186915361895	-40.0654201857026
+		V4	62.2429900715604	-40.1495323344479
+		V5	61.5700928815975	-37.289719277106
+		V6	70.0654199048781	-43.1775696892806
+		V7	75.5607469562411	-41.4953267143736
+		V8	79.7383170105935	-40.878504290241
+		V9	79.6542048618482	-37.6822426379176
+	</landmarks.scaled>
+	<ruler.points type=matrix rownames=TRUE colnames=FALSE nrow=4 ncol=2 as.numeric=TRUE >
+		Ruler point 1	1517	1969
+		Ruler point 2	1553	1970
+		Ruler point 3	1588	1969
+		Ruler point 4	1624	1969
+	</ruler.points>
+</shapes>
+

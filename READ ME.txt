@@ -1,0 +1,22 @@
+CSB Winter 2018 Class Project
+
+Anna Petrosky
+
+I recently started a geometric morphometrics project looking at whether cranial shape in species of Chrotomys 
+(an endemic Philippine genus of murine rodents) reflects the hypothesis that species' diets differ based on differential
+habitat association. I photographed Field Museum specimens from three views and digitized landmarks using StereoMorph in R;
+with the resulting landmark files and a spreadsheet of FMNH specimens from the Philippines, I tried to automate my landmark
+analyses and export all figures and summaries. The huge time-saver was formatting the classifier CSV to make sure it exactly 
+matched the IDs and order of the landmark files (due to specimen damage, each view set contains different specimens and 
+counts; doing this by hand was a nightmare). I also had to run each analysis for all three views of the skull. Hopefully this
+project will be expanded to a further 3 genera in the future.
+
+WHAT TO DO:
+
+1) run Prep_morpho_classifier.R
+This will cut down the large FMNH spreadsheet and match it to the landmark files.
+
+2) run morphometrics_stats.R
+This will perform all analyses and send summaries and figures to approriately named directories.
+
+ 

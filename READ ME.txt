@@ -13,6 +13,8 @@ project will be expanded to a further 3 genera in the future.
 
 WHAT TO DO:
 
+Within the Morphometrics directory
+
 1) run Prep_morpho_classifier.R
 This will cut down the large FMNH spreadsheet and match it to the landmark files.
 
